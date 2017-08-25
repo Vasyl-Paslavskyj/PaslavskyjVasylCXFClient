@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.epam.lab3.NewspaperTest" duration-ms="3785" started-at="2017-08-23T12:20:56Z" finished-at="2017-08-23T12:21:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3785" started-at="2017-08-23T12:20:56Z" finished-at="2017-08-23T12:21:00Z">
+      <class name="com.epam.lab3.NewspaperTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.epam.lab3.NewspaperTest@7c30a502]" name="setUp" is-config="true" duration-ms="123" started-at="2017-08-23T15:20:56Z" finished-at="2017-08-23T15:20:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddNews()[pri:0, instance:com.epam.lab3.NewspaperTest@7c30a502]" name="testAddNews" duration-ms="3648" started-at="2017-08-23T15:20:56Z" finished-at="2017-08-23T15:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNews -->
+      </class> <!-- com.epam.lab3.NewspaperTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.epam.lab3.NewspaperTest -->
+</testng-results>
